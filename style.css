@@ -1,0 +1,21 @@
+body {
+    background: #eeeeee;
+    line-height: 150%;
+}
+
+.center {
+    text-align: center;
+}
+
+figure {
+    background-color: white;
+}
+
+section, blockquote {
+    max-width: 600px;
+    margin: auto;
+}
+
+li {
+    margin: 8px;
+}
